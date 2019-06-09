@@ -1,0 +1,13 @@
+#!/bin/bash
+# Clean all images
+docker 
+
+# clone a specific version of the repo.
+
+# Pull Image or Build
+
+# docker logs
+docker logs f7e5e11bd7bc 2>&1 | tee logs_output
+
+# docker pull
+
