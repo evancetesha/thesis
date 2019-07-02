@@ -1,0 +1,16 @@
+IMAGE               CREATED             CREATED BY                                      SIZE                COMMENT
+3bd2a941224f        3 weeks ago         /bin/sh -c #(nop)  CMD ["httpd-foreground"]     0B                  
+<missing>           3 weeks ago         /bin/sh -c #(nop)  EXPOSE 80                    0B                  
+<missing>           3 weeks ago         /bin/sh -c #(nop) COPY file:8b68ac010cb13f58…   133B                
+<missing>           3 weeks ago         /bin/sh -c set -eux;   echo 'deb http://deb.…   51.7MB              
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV APACHE_DIST_URLS=http…   0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV HTTPD_PATCHES=           0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV HTTPD_SHA256=b4ca9d05…   0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV HTTPD_VERSION=2.4.39     0B                  
+<missing>           7 weeks ago         /bin/sh -c set -eux;  apt-get update;  apt-g…   33.3MB              
+<missing>           7 weeks ago         /bin/sh -c #(nop) WORKDIR /usr/local/apache2    0B                  
+<missing>           7 weeks ago         /bin/sh -c mkdir -p "$HTTPD_PREFIX"  && chow…   0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV PATH=/usr/local/apach…   0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  ENV HTTPD_PREFIX=/usr/loc…   0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop)  CMD ["bash"]                 0B                  
+<missing>           7 weeks ago         /bin/sh -c #(nop) ADD file:fcb9328ea4c115670…   55.3MB              

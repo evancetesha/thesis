@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Cleanup: Containers, Volumes, Images
+docker image prune --all --force
+
+# Pull Image
+docker pull httpd:2.4.39
+
+# Print Checksum for Container & Layers
+
+# Docker Inspect
+docker inspect httpd:2.4.39 2>&1 | tee inspect_output
+
+# Docker History
+docker image history httpd:2.4.39 2>&1 | tee history_output
