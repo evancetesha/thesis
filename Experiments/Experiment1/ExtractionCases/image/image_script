@@ -4,12 +4,15 @@
 docker image prune --all --force
 
 # Pull Image
+echo "Fetching image from registry"
 docker pull httpd:2.4.39
 
 # Print Checksum for Container & Layers
 
 # Docker Inspect
+echo "Running docker inspect"
 docker inspect httpd:2.4.39 2>&1 | tee inspect_output
 
 # Docker History
+echo "Running docker image history"
 docker image history httpd:2.4.39 2>&1 | tee history_output
