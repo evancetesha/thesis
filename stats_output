@@ -1,0 +1,2 @@
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+39e2472f36f4        quirky_tharp        0.01%               6.332MiB / 2.863GiB   0.22%               6.32kB / 0B         0B / 0B             82

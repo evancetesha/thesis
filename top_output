@@ -1,0 +1,5 @@
+UID                 PID                 PPID                C                   STIME               TTY                 TIME                CMD
+root                6580                6550                0                   23:09               ?                   00:00:00            httpd -DFOREGROUND
+daemon              6630                6580                0                   23:09               ?                   00:00:00            httpd -DFOREGROUND
+daemon              6631                6580                0                   23:09               ?                   00:00:00            httpd -DFOREGROUND
+daemon              6632                6580                0                   23:09               ?                   00:00:00            httpd -DFOREGROUND
