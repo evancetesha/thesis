@@ -1,0 +1,342 @@
+A /root/.bash_history
+A /root/.cache
+A /root/.cache/dconf
+A /root/.cache/dconf/user
+A /root/.config
+A /root/.config/gtk-3.0
+A /root/.config/Slack
+A /root/.config/Slack/blob_storage
+A /root/.config/Slack/blob_storage/11aed8cf-c61b-4ac0-9bc2-5f91ffbc1e78
+A /root/.config/Slack/Cache
+A /root/.config/Slack/Cache/043814c61668bdef_0
+A /root/.config/Slack/Cache/05d6837f0b956485_0
+A /root/.config/Slack/Cache/05db3e8d03514dd1_0
+A /root/.config/Slack/Cache/06b8b688a856e25c_0
+A /root/.config/Slack/Cache/0a0a792aa1f672b1_0
+A /root/.config/Slack/Cache/0a27489e9e0072a0_0
+A /root/.config/Slack/Cache/0aec15c4332538bd_0
+A /root/.config/Slack/Cache/0c5b5bd79bafccb5_0
+A /root/.config/Slack/Cache/0ef964e9e2df07c8_0
+A /root/.config/Slack/Cache/0f92fb560e829b1b_0
+A /root/.config/Slack/Cache/1172b36ea8d67c17_0
+A /root/.config/Slack/Cache/1468c6f1190415f1_0
+A /root/.config/Slack/Cache/1489cfccd0f48eea_0
+A /root/.config/Slack/Cache/1549efe65c846a08_0
+A /root/.config/Slack/Cache/1565594648ee4239_0
+A /root/.config/Slack/Cache/1aec1e55f3286bc3_0
+A /root/.config/Slack/Cache/1e4732cdd571e36e_0
+A /root/.config/Slack/Cache/1e5d569ae0ec8b62_0
+A /root/.config/Slack/Cache/200b59f032039cc3_0
+A /root/.config/Slack/Cache/22ccb2a5ec16799c_0
+A /root/.config/Slack/Cache/23d579107c2635b2_0
+A /root/.config/Slack/Cache/2522d065c69873f3_0
+A /root/.config/Slack/Cache/273f45289d245a9d_0
+A /root/.config/Slack/Cache/2b783c3aa28ead2b_0
+A /root/.config/Slack/Cache/2d5258035842a975_0
+A /root/.config/Slack/Cache/2ec4b34218869ef6_0
+A /root/.config/Slack/Cache/3371e9e05abcdf4c_0
+A /root/.config/Slack/Cache/340dc09871aedce2_0
+A /root/.config/Slack/Cache/36e163bfcd4276a9_0
+A /root/.config/Slack/Cache/383c71dbc87953b8_0
+A /root/.config/Slack/Cache/3c564b50fc25dab1_0
+A /root/.config/Slack/Cache/3de7806b4deeb79b_0
+A /root/.config/Slack/Cache/3f2b274335dc29eb_0
+A /root/.config/Slack/Cache/404a028b3902b4bb_0
+A /root/.config/Slack/Cache/43c8e028c15e55e7_0
+A /root/.config/Slack/Cache/4500abaecdcd814e_0
+A /root/.config/Slack/Cache/462a83710492b778_0
+A /root/.config/Slack/Cache/4acac2c055c5ba27_0
+A /root/.config/Slack/Cache/4ca28cc8d284c291_0
+A /root/.config/Slack/Cache/4d926552fdd956a0_0
+A /root/.config/Slack/Cache/4f3660fc30079430_0
+A /root/.config/Slack/Cache/4f7ce8672e961e2d_0
+A /root/.config/Slack/Cache/50b9acb30b49fd2b_0
+A /root/.config/Slack/Cache/513fd82833f1db54_0
+A /root/.config/Slack/Cache/52c848cd66e859e9_0
+A /root/.config/Slack/Cache/53a4480283a9dbee_0
+A /root/.config/Slack/Cache/54f504b55561858f_0
+A /root/.config/Slack/Cache/565c4603c7d6c4ae_0
+A /root/.config/Slack/Cache/5a401b4fd5e4c1a8_0
+A /root/.config/Slack/Cache/5c4e19db65641f99_0
+A /root/.config/Slack/Cache/5cccda70cdf892be_0
+A /root/.config/Slack/Cache/5ec39f3f4cf8a496_0
+A /root/.config/Slack/Cache/5f6f40879f3ef586_0
+A /root/.config/Slack/Cache/5fb25b5226a4ef66_0
+A /root/.config/Slack/Cache/619337a97e977ef9_0
+A /root/.config/Slack/Cache/63725282f0153b7c_0
+A /root/.config/Slack/Cache/639b7096d296cb9d_0
+A /root/.config/Slack/Cache/64fbb35ee827756c_0
+A /root/.config/Slack/Cache/6632c76d2f6dcf9f_0
+A /root/.config/Slack/Cache/6a46ac0f987106fb_0
+A /root/.config/Slack/Cache/6e90388addcab184_0
+A /root/.config/Slack/Cache/6f62572b1ccd7d14_0
+A /root/.config/Slack/Cache/71211586500262ec_0
+A /root/.config/Slack/Cache/74e525d24fc75c80_0
+A /root/.config/Slack/Cache/75d5721622639470_0
+A /root/.config/Slack/Cache/76eefb8fa8d22080_0
+A /root/.config/Slack/Cache/78559c109ff7f759_0
+A /root/.config/Slack/Cache/785e39a95a85e8c8_0
+A /root/.config/Slack/Cache/7974d3402979109c_0
+A /root/.config/Slack/Cache/7b54cc8b6bab6130_0
+A /root/.config/Slack/Cache/7d025dafd7c48983_0
+A /root/.config/Slack/Cache/7e47523dc0bf79d3_0
+A /root/.config/Slack/Cache/7ef11a4b0ee9b5a4_0
+A /root/.config/Slack/Cache/7efb456eedf161af_0
+A /root/.config/Slack/Cache/7f7c8ee42530f319_0
+A /root/.config/Slack/Cache/7f89f2139a2008ee_0
+A /root/.config/Slack/Cache/80f8ee07cda8208b_0
+A /root/.config/Slack/Cache/8279c04c72b78f09_0
+A /root/.config/Slack/Cache/83de4006e5cec876_0
+A /root/.config/Slack/Cache/842bd89c67ad3bf3_0
+A /root/.config/Slack/Cache/89b584a47dacaf89_0
+A /root/.config/Slack/Cache/8acd9efcfaabd0c5_0
+A /root/.config/Slack/Cache/8f60fe5d58a0d092_0
+A /root/.config/Slack/Cache/90ae14716099de4c_0
+A /root/.config/Slack/Cache/91d2e2ce1192e219_0
+A /root/.config/Slack/Cache/92e72c0b6acbd9c6_0
+A /root/.config/Slack/Cache/9404af2688b610e2_0
+A /root/.config/Slack/Cache/940a2f5c5586894b_0
+A /root/.config/Slack/Cache/95bdc12f9259ab91_0
+A /root/.config/Slack/Cache/96c7e76fff7590bd_0
+A /root/.config/Slack/Cache/9abc48d2a9d60af3_0
+A /root/.config/Slack/Cache/9aef2fa68c58a4fa_0
+A /root/.config/Slack/Cache/9b94b11d1722b07e_0
+A /root/.config/Slack/Cache/9ef5f8ab1654d54e_0
+A /root/.config/Slack/Cache/9f4e2175721f2169_0
+A /root/.config/Slack/Cache/a06e45cb6cc82bb6_0
+A /root/.config/Slack/Cache/a108be5f07e41453_0
+A /root/.config/Slack/Cache/a3482a12918bf016_0
+A /root/.config/Slack/Cache/a7d68c7dba010908_0
+A /root/.config/Slack/Cache/ae35f8e20414242c_0
+A /root/.config/Slack/Cache/b01717f4028cd7c9_0
+A /root/.config/Slack/Cache/b1502d47779931cd_0
+A /root/.config/Slack/Cache/b15583377763f262_0
+A /root/.config/Slack/Cache/b1f4e49439e5ca0f_0
+A /root/.config/Slack/Cache/b399645909222964_0
+A /root/.config/Slack/Cache/b65d5e5687032443_0
+A /root/.config/Slack/Cache/b7af3abfdaa821d4_0
+A /root/.config/Slack/Cache/b916961ff2e92535_0
+A /root/.config/Slack/Cache/b97dc399e02fca4f_0
+A /root/.config/Slack/Cache/ba9982635af0b494_0
+A /root/.config/Slack/Cache/bc718349bb87776a_0
+A /root/.config/Slack/Cache/be0630fc2f1ac688_0
+A /root/.config/Slack/Cache/be72d75dcec2ec32_0
+A /root/.config/Slack/Cache/bfc018d556f349f0_0
+A /root/.config/Slack/Cache/c2149ef9a6875813_0
+A /root/.config/Slack/Cache/cbf4af723b5905e5_0
+A /root/.config/Slack/Cache/cdaf4b3dd1c06d16_0
+A /root/.config/Slack/Cache/cdbde38f2b6dcf27_0
+A /root/.config/Slack/Cache/cdeb67e05efac2d4_0
+A /root/.config/Slack/Cache/cdf91e62830e5be6_0
+A /root/.config/Slack/Cache/d29182082d0238dd_0
+A /root/.config/Slack/Cache/d2d959679d29936d_0
+A /root/.config/Slack/Cache/d3ab66d609004e07_0
+A /root/.config/Slack/Cache/d3f556c72f5abb00_0
+A /root/.config/Slack/Cache/d46a8b239646975f_0
+A /root/.config/Slack/Cache/dd46070b87c7fbff_0
+A /root/.config/Slack/Cache/dd9c7f7f74fc2a4c_0
+A /root/.config/Slack/Cache/dda1b6a46da91dd2_0
+A /root/.config/Slack/Cache/de697a7f7cad66ab_0
+A /root/.config/Slack/Cache/de9ba6c71f498a5f_0
+A /root/.config/Slack/Cache/e1d76eff38d69c91_0
+A /root/.config/Slack/Cache/e22ff96f5aabf104_0
+A /root/.config/Slack/Cache/e293b980b508b71a_0
+A /root/.config/Slack/Cache/e6970d4f174c0c5f_0
+A /root/.config/Slack/Cache/e91aacc57173274a_0
+A /root/.config/Slack/Cache/ed64f1da785091a9_0
+A /root/.config/Slack/Cache/ede5dc2c8e79e0b1_0
+A /root/.config/Slack/Cache/eecf0848b254fd02_0
+A /root/.config/Slack/Cache/f03a6cc9b03653ca_0
+A /root/.config/Slack/Cache/f3f39ec38d27601c_0
+A /root/.config/Slack/Cache/f4a86e1cb0337ce0_0
+A /root/.config/Slack/Cache/f92a9f616d385166_0
+A /root/.config/Slack/Cache/f9d751b1d42ca8e6_0
+A /root/.config/Slack/Cache/index
+A /root/.config/Slack/Cache/index-dir
+A /root/.config/Slack/Cache/index-dir/the-real-index
+A /root/.config/Slack/Code Cache
+A /root/.config/Slack/Code Cache/js
+A /root/.config/Slack/Code Cache/js/0a3368e0d57e1739_0
+A /root/.config/Slack/Code Cache/js/34bed0a2cf5ce336_0
+A /root/.config/Slack/Code Cache/js/4bcd184b8e1c2b2a_0
+A /root/.config/Slack/Code Cache/js/59902456de56e56a_0
+A /root/.config/Slack/Code Cache/js/60f4e22e1957fcaa_0
+A /root/.config/Slack/Code Cache/js/6b055a4a784eb1a6_0
+A /root/.config/Slack/Code Cache/js/6b4ae2f744a5368b_0
+A /root/.config/Slack/Code Cache/js/78352c10956830bc_0
+A /root/.config/Slack/Code Cache/js/90e26872928c9e11_0
+A /root/.config/Slack/Code Cache/js/9b1843a8f92e7093_0
+A /root/.config/Slack/Code Cache/js/a94c161af7867c49_0
+A /root/.config/Slack/Code Cache/js/abf648b860ad32fd_0
+A /root/.config/Slack/Code Cache/js/b67b01b1c422d412_0
+A /root/.config/Slack/Code Cache/js/b6b05425b7c4a48a_0
+A /root/.config/Slack/Code Cache/js/c4f113922b9b7442_0
+A /root/.config/Slack/Code Cache/js/e2c08652964d9164_0
+A /root/.config/Slack/Code Cache/js/index
+A /root/.config/Slack/Code Cache/js/index-dir
+A /root/.config/Slack/Code Cache/js/index-dir/the-real-index
+A /root/.config/Slack/Cookies
+A /root/.config/Slack/Cookies-journal
+A /root/.config/Slack/databases
+A /root/.config/Slack/databases/Databases.db
+A /root/.config/Slack/databases/Databases.db-journal
+A /root/.config/Slack/GPUCache
+A /root/.config/Slack/GPUCache/data_0
+A /root/.config/Slack/GPUCache/data_1
+A /root/.config/Slack/GPUCache/data_2
+A /root/.config/Slack/GPUCache/data_3
+A /root/.config/Slack/GPUCache/index
+A /root/.config/Slack/IndexedDB
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/CURRENT
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/LOCK
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/LOG
+A /root/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+A /root/.config/Slack/installation
+A /root/.config/Slack/Local Storage
+A /root/.config/Slack/Local Storage/leveldb
+A /root/.config/Slack/Local Storage/leveldb/000003.log
+A /root/.config/Slack/Local Storage/leveldb/CURRENT
+A /root/.config/Slack/Local Storage/leveldb/LOCK
+A /root/.config/Slack/Local Storage/leveldb/LOG
+A /root/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+A /root/.config/Slack/local-settings.json
+A /root/.config/Slack/logs
+A /root/.config/Slack/logs/browser.log
+A /root/.config/Slack/logs/recorded-trace
+A /root/.config/Slack/logs/webapp-console.log
+A /root/.config/Slack/logs/webapp-undefined-console.log
+A /root/.config/Slack/Network Persistent State
+A /root/.config/Slack/Preferences
+A /root/.config/Slack/QuotaManager
+A /root/.config/Slack/QuotaManager-journal
+A /root/.config/Slack/Service Worker
+A /root/.config/Slack/Service Worker/CacheStorage
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/05d6837f0b956485_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/06b8b688a856e25c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/0a0a792aa1f672b1_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/0aec15c4332538bd_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/0c5b5bd79bafccb5_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/0ef964e9e2df07c8_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/1468c6f1190415f1_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/1aec1e55f3286bc3_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/22ccb2a5ec16799c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/23d579107c2635b2_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/2522d065c69873f3_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/2b783c3aa28ead2b_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/2d5258035842a975_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/3371e9e05abcdf4c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/383c71dbc87953b8_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/404a028b3902b4bb_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/4acac2c055c5ba27_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/50b9acb30b49fd2b_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/53a4480283a9dbee_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/5a401b4fd5e4c1a8_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/5cccda70cdf892be_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/6a46ac0f987106fb_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/6f62572b1ccd7d14_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/74e525d24fc75c80_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/76eefb8fa8d22080_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/7974d3402979109c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/7ef11a4b0ee9b5a4_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/7f7c8ee42530f319_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/8279c04c72b78f09_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/8f60fe5d58a0d092_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/90ae14716099de4c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/92e72c0b6acbd9c6_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/9b94b11d1722b07e_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/9f4e2175721f2169_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/a06e45cb6cc82bb6_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/a108be5f07e41453_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/a7d68c7dba010908_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/ae35f8e20414242c_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/b1502d47779931cd_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/b15583377763f262_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/b97dc399e02fca4f_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/ba9982635af0b494_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/bc718349bb87776a_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/be0630fc2f1ac688_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/bfc018d556f349f0_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/c2149ef9a6875813_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/cbf4af723b5905e5_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/cdeb67e05efac2d4_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/cdf91e62830e5be6_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/dda1b6a46da91dd2_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/de697a7f7cad66ab_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/e22ff96f5aabf104_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/e293b980b508b71a_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/e6970d4f174c0c5f_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/ede5dc2c8e79e0b1_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/eecf0848b254fd02_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/f03a6cc9b03653ca_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/f92a9f616d385166_0
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/index
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/index-dir
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/428eea20-43a8-4b49-b319-8852b202cc29/index-dir/the-real-index
+A /root/.config/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/index.txt
+A /root/.config/Slack/Service Worker/Database
+A /root/.config/Slack/Service Worker/Database/000003.log
+A /root/.config/Slack/Service Worker/Database/CURRENT
+A /root/.config/Slack/Service Worker/Database/LOCK
+A /root/.config/Slack/Service Worker/Database/LOG
+A /root/.config/Slack/Service Worker/Database/MANIFEST-000001
+A /root/.config/Slack/Service Worker/ScriptCache
+A /root/.config/Slack/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+A /root/.config/Slack/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+A /root/.config/Slack/Service Worker/ScriptCache/index
+A /root/.config/Slack/Service Worker/ScriptCache/index-dir
+A /root/.config/Slack/Service Worker/ScriptCache/index-dir/the-real-index
+A /root/.config/Slack/Session Storage
+A /root/.config/Slack/Session Storage/000003.log
+A /root/.config/Slack/Session Storage/CURRENT
+A /root/.config/Slack/Session Storage/LOCK
+A /root/.config/Slack/Session Storage/LOG
+A /root/.config/Slack/Session Storage/MANIFEST-000001
+A /root/.config/Slack/SingletonCookie
+A /root/.config/Slack/SingletonLock
+A /root/.config/Slack/SS
+A /root/.config/Slack/storage
+A /root/.config/Slack/storage/slack-appTeams
+A /root/.config/Slack/storage/slack-dialog
+A /root/.config/Slack/storage/slack-downloads
+A /root/.config/Slack/storage/slack-enterprise
+A /root/.config/Slack/storage/slack-settings
+A /root/.config/Slack/storage/slack-teams
+A /root/.config/Slack/storage/slack-webapp
+A /root/.config/Slack/storage/slack-workspaces
+A /root/.config/Slack/storage/slack-workspacesMeta
+A /root/.config/Slack/TransportSecurity
+A /root/.local
+A /root/.local/share
+A /root/.local/share/recently-used.xbel
+A /root/.pki
+A /root/.pki/nssdb
+A /root/.pki/nssdb/cert9.db
+A /root/.pki/nssdb/key4.db
+A /root/.pki/nssdb/pkcs11.txt
+A /root/Downloads
+A /root/Downloads/TestFile
+A /root/upload_file.txt
+A /tmp/.org.chromium.Chromium.K3MjAo
+A /tmp/.org.chromium.Chromium.K3MjAo/SingletonCookie
+A /tmp/.org.chromium.Chromium.K3MjAo/SS
+A /tmp/.X11-unix
+A /tmp/Slack Crashes
+A /var/cache/fontconfig/d2d732d3-064e-485a-94af-a025a60a0e79-le64.cache-7
+C /root
+C /tmp
+C /usr
+C /usr/local
+C /usr/local/share
+C /usr/local/share/fonts
+C /usr/local/share/fonts/.uuid
+C /var
+C /var/cache
+C /var/cache/fontconfig
+C /var/cache/fontconfig/4033ca96-1174-4b21-8289-d89da8203b6c-le64.cache-7
+C /var/cache/fontconfig/558dcaab-6985-4b78-8dd4-bf652430760a-le64.cache-7
+C /var/cache/fontconfig/85696c9d-7240-4c11-b0a5-03367b9bb709-le64.cache-7
+C /var/cache/fontconfig/ab934cb3-0e5f-43a9-b1f9-6c2d1628ec29-le64.cache-7

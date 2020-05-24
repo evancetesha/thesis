@@ -1,0 +1,76 @@
+[03/22/20, 09:25:09:145] info: [FOCUS-EVENT] Client window focused 
+[03/22/20, 09:25:09:176] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/22/20, 09:25:09:232] info: [CHECK-UNREADS] (TUNHNNQBH) Checking unreads after window became focused 
+[03/22/20, 09:25:09:233] info: [CHECK-UNREADS] (TUNHNNQBH) Not marking DUNTWA0TY because last_read >= latest && channel is read 
+[03/22/20, 09:25:09:244] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/22/20, 09:25:13:049] info: [ACTION:CHANNEL-SIDEBAR] Selected CU7TYK1PU 
+[03/22/20, 09:25:13:051] info: [CHANNEL-SIDEBAR] (TUNHNNQBH) onItemSelect CU7TYK1PU 
+[03/22/20, 09:25:13:070] info: [SWITCH-TO-CHANNEL] (TUNHNNQBH) Switching to CU7TYK1PU at end 
+[03/22/20, 09:25:13:216] info: [MESSAGE-LIST] (TUNHNNQBH) Switching channels: CU7TYK1PU timestamps: 0 
+[03/22/20, 09:25:13:218] info: [MESSAGE-LIST] (TUNHNNQBH) requestAround channelId: CU7TYK1PU isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/22/20, 09:25:13:219] info: [HISTORY-FETCH] (TUNHNNQBH) Fetching history for message pane: CU7TYK1PU oldest: null latest: null 
+[03/22/20, 09:25:13:226] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869113.220 conversations.history called with reason: message-pane/requestHistory 
+[03/22/20, 09:25:13:227] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869113.220 conversations.history is ENQUEUED 
+[03/22/20, 09:25:13:234] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869113.220 conversations.history is ACTIVE 
+[03/22/20, 09:25:13:260] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/22/20, 09:25:13:268] info: [MESSAGE-LIST] (TUNHNNQBH) requestAround channelId: CU7TYK1PU isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/22/20, 09:25:13:269] info: [MESSAGE-LIST] (TUNHNNQBH) requestAround channelId: CU7TYK1PU isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/22/20, 09:25:13:394] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/22/20, 09:25:13:410] info: [API-Q] (TUNHNNQBH) noversion-1584869113.405 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/22/20, 09:25:13:413] info: [API-Q] (TUNHNNQBH) noversion-1584869113.405 Flannel users/counts is ENQUEUED 
+[03/22/20, 09:25:13:417] info: [API-Q] (TUNHNNQBH) noversion-1584869113.405 Flannel users/counts is ACTIVE 
+[03/22/20, 09:25:13:470] info: [MESSAGE-LIST] (TUNHNNQBH) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[03/22/20, 09:25:13:684] info: [API-Q] (TUNHNNQBH) noversion-1584869113.405 Flannel users/counts is RESOLVED 
+[03/22/20, 09:25:14:069] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869113.220 conversations.history is RESOLVED 
+[03/22/20, 09:25:14:106] info: [PINS] (TUNHNNQBH) Pins count updated for channel CU7TYK1PU: 0 
+[03/22/20, 09:25:14:124] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because (1) timestamps added 
+[03/22/20, 09:25:14:283] info: [UNREAD-COUNTS] (TUNHNNQBH) Checking unreads in CU7TYK1PU after a new message 
+[03/22/20, 09:25:14:290] info: [CHECK-UNREADS] (TUNHNNQBH) Marking CU7TYK1PU because channel is read and last message is from self 
+[03/22/20, 09:25:14:291] info: [SET-LAST-READ] (TUNHNNQBH) markLastRead CU7TYK1PU:1582832357.000200, immediate: undefined 
+[03/22/20, 09:25:14:293] info: [SET-LAST-READ] (TUNHNNQBH) delaying CU7TYK1PU mark by 300.80261036830814ms 
+[03/22/20, 09:25:14:294] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because last_read changed to 1582832357.000200 
+[03/22/20, 09:25:14:315] info: [MESSAGE-LIST] (TUNHNNQBH) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 1 
+[03/22/20, 09:25:14:395] info: [CHECK-UNREADS] (TUNHNNQBH) unreadLineVisible updated: false -> true 
+[03/22/20, 09:25:14:499] info: [SET-LAST-READ] (TUNHNNQBH) delay resolved, marking CU7TYK1PU with API 
+[03/22/20, 09:25:14:544] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869114.527 conversations.mark called with reason: viewed 
+[03/22/20, 09:25:14:552] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869114.527 conversations.mark is ENQUEUED 
+[03/22/20, 09:25:14:554] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869114.527 conversations.mark is ACTIVE 
+[03/22/20, 09:25:14:787] info: [CHECK-UNREADS] (TUNHNNQBH) Checking unreads after unread line became visible 
+[03/22/20, 09:25:14:789] info: [CHECK-UNREADS] (TUNHNNQBH) Not marking CU7TYK1PU because last_read >= latest && channel is read 
+[03/22/20, 09:25:15:069] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869114.527 conversations.mark is RESOLVED 
+[03/22/20, 09:25:24:043] info: [ACTION:MESSAGE] (TUNHNNQBH) Sent a message to CU7TYK1PU via HTTP, clientMsgId: e68e2d18-5842-4ca5-93ba-f7dfbd8abbd8 
+[03/22/20, 09:25:24:044] info: [ACTION:MESSAGE-Q] (TUNHNNQBH) Enqueueing message with clientMsgId e68e2d18-5842-4ca5-93ba-f7dfbd8abbd8, queue has 1 messages 
+[03/22/20, 09:25:24:045] info: [ACTION:MESSAGE-Q] (TUNHNNQBH) Sending message with clientMsgId e68e2d18-5842-4ca5-93ba-f7dfbd8abbd8 
+[03/22/20, 09:25:24:050] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869124.047 chat.postMessage called with reason: webapp_message_send 
+[03/22/20, 09:25:24:051] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869124.047 chat.postMessage is ENQUEUED 
+[03/22/20, 09:25:24:053] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869124.047 chat.postMessage is ACTIVE 
+[03/22/20, 09:25:24:054] info: [ACTION:MESSAGE-Q] (TUNHNNQBH) Shifting queue, now has 0 messages 
+[03/22/20, 09:25:24:067] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because (1) timestamps added 
+[03/22/20, 09:25:24:069] info: [UNREAD-COUNTS] (TUNHNNQBH) Checking unreads in CU7TYK1PU after a new message 
+[03/22/20, 09:25:24:071] info: [CHECK-UNREADS] (TUNHNNQBH) Not marking CU7TYK1PU because last_read >= latest && channel is read 
+[03/22/20, 09:25:24:755] info: [ACTION:MESSAGE] (TUNHNNQBH) Resolved a message with clientMsgId e68e2d18-5842-4ca5-93ba-f7dfbd8abbd8 in CU7TYK1PU with ts 1584869124.000200 
+[03/22/20, 09:25:24:765] info: [ACTION:MESSAGE-Q] (TUNHNNQBH) Resolving active request with clientMsgId e68e2d18-5842-4ca5-93ba-f7dfbd8abbd8 
+[03/22/20, 09:25:24:775] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because (1) timestamps added 
+[03/22/20, 09:25:24:777] info: [UNREAD-COUNTS] (TUNHNNQBH) Checking unreads in CU7TYK1PU after a new message 
+[03/22/20, 09:25:24:778] info: [CHECK-UNREADS] (TUNHNNQBH) Marking CU7TYK1PU because unread line is visible 
+[03/22/20, 09:25:24:779] info: [SET-LAST-READ] (TUNHNNQBH) markLastRead CU7TYK1PU:1584869124.000200, immediate: undefined 
+[03/22/20, 09:25:24:812] info: [SET-LAST-READ] (TUNHNNQBH) delaying CU7TYK1PU mark by 3783.8638722547526ms 
+[03/22/20, 09:25:24:820] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because message removed 
+[03/22/20, 09:25:24:821] info: [UNREAD-COUNTS] (TUNHNNQBH) Counting unreads in CU7TYK1PU because last_read changed to 1584869124.000200 
+[03/22/20, 09:25:24:989] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869124.047 chat.postMessage is RESOLVED 
+[03/22/20, 09:25:26:192] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.190 onboarding.welcome called with reason: fetch-welcome-place-data 
+[03/22/20, 09:25:26:193] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.190 onboarding.welcome is ENQUEUED 
+[03/22/20, 09:25:26:195] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.190 onboarding.welcome is ACTIVE 
+[03/22/20, 09:25:26:692] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.190 onboarding.welcome is RESOLVED 
+[03/22/20, 09:25:26:711] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.708 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[03/22/20, 09:25:26:712] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.708 users.prefs.set is ENQUEUED 
+[03/22/20, 09:25:26:715] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.708 users.prefs.set is ACTIVE 
+[03/22/20, 09:25:27:289] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869126.708 users.prefs.set is RESOLVED 
+[03/22/20, 09:25:28:596] info: [SET-LAST-READ] (TUNHNNQBH) delay resolved, marking CU7TYK1PU with API 
+[03/22/20, 09:25:28:604] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869128.602 conversations.mark called with reason: viewed 
+[03/22/20, 09:25:28:605] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869128.602 conversations.mark is ENQUEUED 
+[03/22/20, 09:25:28:608] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869128.602 conversations.mark is ACTIVE 
+[03/22/20, 09:25:29:118] info: [API-Q] (TUNHNNQBH) 9f41c0db-1584869128.602 conversations.mark is RESOLVED 
+[03/22/20, 09:25:30:810] info: [FOCUS-EVENT] Client window blurred 
+[03/22/20, 09:25:30:823] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/22/20, 09:25:30:940] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
